@@ -1,6 +1,8 @@
-# Page-proofs: 3
+# This open-source code my portfolio
 
 ## Getting Started
+
+ - or open https://dementeey.github.io
 
 ### I'm use gulp and gulp-plugin
 
